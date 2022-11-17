@@ -1,0 +1,28 @@
+/*style.css*/
+
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.title {
+    background-color: goldenrod;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.ulist li {
+    color: darkolivegreen;
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    background-color: rgb(227, 218, 196);
+}
+
